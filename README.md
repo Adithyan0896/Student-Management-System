@@ -50,12 +50,12 @@ The database consists of the following tables:
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the student management data. Some of the key queries implemented include:
 
 **1. JOIN:**  
-   - Used to retrieve detailed information about students, their enrolled courses, grades, and instructors. For example, joining the `Students`, `Enrollments`, `Courses`, `Grades`, and `Instructors` tables to retrieve a list of students along with their grades, GPAs, and instructor names.
+   - Used to retrieve detailed information about students, their enrolled courses, grades, and instructors. For example, joining the Students, Enrollments, Courses, Grades, and Instructors tables to retrieve a list of students along with their grades, GPAs, and instructor names.
 
     
 
 **2. VIEW:**  
-   - Created a `StudentTranscript` view to generate a summarized report of students’ enrolled courses along with their grades and GPAs.
+   - Created a StudentTranscript view to generate a summarized report of students’ enrolled courses along with their grades and GPAs.
 
    
 **3. SUBQUERY:**  
