@@ -1,5 +1,5 @@
                                       -- ****** Student Management System ******
--- Creating DATABASE (Name:SMS )
+-- Creating DATABASE
 create database StudentManagementSystem;
 use StudentManagementSystem;
 
